@@ -34,7 +34,7 @@ class MyHomeState extends State<MyHome> {
       backgroundColor: Colors.grey,
       appBar: AppBar(
         title: const Text('To-do'),
-        backgroundColor: Colors.deepPurpleAccent,
+        backgroundColor: Colors.black,
       ),
       body: Column(
         children: <Widget>[
